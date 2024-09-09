@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco Frattarola</h1>
 <h3 align="center">A Computer science student</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/it/view/cat-space-gif-9109393409260869725">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/fmsRCsZHWF0AAAAi/cat-space.gif">
 - 📫 How to reach me **marcofrattarola1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
