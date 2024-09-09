@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco Frattarola</h1>
-<h3 align="center">A Computer science student</h3>
+<h3 align="center">A Computer Science student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/fmsRCsZHWF0AAAAi/cat-space.gif">
 - 📫 How to reach me <b>marcofrattarola1@gmail.com</b>
 
